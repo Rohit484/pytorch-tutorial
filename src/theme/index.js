@@ -63,7 +63,7 @@ export default {
 		"xxl": "0 25px 50px -12px rgba(0, 0, 0, 0.25)"
 	},
 	"background": {
-		"primaryGradient": "linear-gradient(180deg, --color-primary, transparent) no-repeat 0 0",
+		"primaryGradient": "#9c2828 linear-gradient(180deg, --color-primary, transparent) 0 0 repeat-y",
 		"secondaryGradient": "linear-gradient(180deg, --color-secondary, transparent) no-repeat 0 0"
 	},
 	"transform": {
